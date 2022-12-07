@@ -1,0 +1,741 @@
+:::tracker{species="Quaxly" baseStats="[[55, 65, 45, 50, 45, 50], [70, 85, 65, 65, 60, 65], [85, 120, 80, 85, 75, 85]]" type="Water" generation=9}
+5:
+  6 -> 1, 0, 0, 0, 0, 0
+  7 -> 3, 0, 0, 0, 0, 0
+  8 -> 3, 0, 0, 0, 0, 1
+  9 -> 3, 1, 0, 0, 0, 1
+  13 -> 3, 1, 0, 0, 0, 1
+  17 -> 3, 1, 0, 0, 0, 1
+  38 -> 3, 1, 2, 0, 0, 1
+  46 -> 3, 1, 2, 0, 0, 1
+  57 -> 3, 1, 2, 0, 0, 1
+:::
+
+# Scarlet/Violet ⭐Starfall Street⭐
+
+To help new runners, the picked up items have pictures attached. You can click on the lines with a ► in the front to see this picture.
+
+[Here is my example 2:56:34 run](https://www.youtube.com/watch?v=VkitpKbWax0). Some strats are a bit different from the notes as they have been updated since.
+
+**This route will go over the basic intro that has been agreed upon for School Timing. This may change in the future and the route will be adjusted accordingly.**
+
+When going on the Candy Run (and in general), try to grab extra items (especially hidden ones) for extra safety. Hidden items are (seemingly) random and so cannot be planned for. The items that are specified in the route _should_ be enough for most of the healing required. Of course, some can be skipped for a faster time but riskier fights.
+
+:::card{theme="neutral"}
+Begin the Run!
+:::
+
+Select English.
+
+Select your character and name them 1.
+
+Don't adjust style.
+
+Options:
+  - Text Speed: Fast
+  - Skip Move Learning: On (v)
+  - Give Nicknames: Off (vv)
+  - **If you're doing School Timing:** Autosave: Off (vvv)
+  - Skip Cutscenes: On (vv)
+
+Intro stuff, then exit the house.
+
+Head down to Nemona's house.
+
+Select Quaxly, don't nickname.
+
+Go fight Nemona.
+
+:::::trainer[Nemona 1]
+  :::pokemon[Fuecoco]
+    - Water Gun spam
+  :::
+:::::
+
+Head back up to Nemona's house and continue cutscenes.
+
+Catch the tutorial Lechonk.
+
+<details>
+	<summary>Grab the Rare Candy to the right of Lechonk.</summary>
+    <img src="https://i.imgur.com/8NZKRwn.png">
+</details>
+
+Run to the cliff and help Miraidon.
+
+Go through the autoscroller and consecutive cutscenes.
+
+Go meet Arven.
+
+:::::trainer[Arven 1]
+  :::pokemon[Skwovet]
+    - Water Gun spam
+  :::
+:::::
+
+Go up the lighthouse, cutscenes.
+
+Run to the Los Platos Center, cutscenes.
+
+Deposit Quaxly into boxes.
+
+Run to Mesagoza and start the Nemona fight.
+
+:::::trainer[Nemona 2]
+  :::pokemon[Fuecoco]
+    - Tackle spam until you faint
+  :::
+:::::
+
+Cutscenes, then replace Lechonk with Quaxly.
+
+:::::trainer[⭐Team Star Grunt⭐]
+  :::pokemon[Shroodle]
+    - Water Gun spam, heal when needed
+  :::
+:::::
+
+:::::trainer[⭐Team Star Grunt⭐]
+  :::pokemon[Yungoos]
+    - Water Gun spam, heal when needed
+  :::
+:::::
+
+Cutscenes in school.
+
+Go to Cafeteria first, then Staff Room.
+
+Finish up the intro cutscenes.
+
+:::card{theme="neutral"}
+Start the Candy Run!
+:::
+
+Fly to Mesagoza (East) and exit through the gate.
+
+Whenever you have the chance, catch something that's easy to catch. Ideally right after crab to avoid excess experience. It also has to be level 20 or less since disobeying Pokémon cannot participate in Star Raids.
+
+<details>
+	<summary>Grab S Candy on the cliff.</summary>
+    <img src="https://i.imgur.com/QjWnTKC.png">
+</details>
+
+Listen to the Rock Titan phone call.
+
+<details>
+	<summary>Grab Hasty Mint.</summary>
+    <img src="https://i.imgur.com/CX5xNzZ.png">
+</details>
+
+<details>
+	<summary>Grab Rare Candy in cave (Boulder to the left just after the mint).</summary>
+    <img src="https://i.imgur.com/7gqgzG3.png">
+</details>
+
+<details>
+	<summary>Grab Rare Candy on hill above boulder.</summary>
+    <img src="https://i.imgur.com/bk94asV.png">
+</details>
+
+<details>
+	<summary>Grab Rare Candy in the corner of the path before Crab.</summary>
+    <img src="https://i.imgur.com/OCpF8Mn.png">
+</details>
+
+Head to Crab and trigger it to move.
+
+On Quaxly, use, in that order:
+- S Candy
+- Rare Candies
+- Hasty Mint
+
+Remember Water Pulse on Quaxly.
+
+Go up to fight the Crab.
+
+:::::trainer[The Stony Cliff Titan]
+  :::pokemon[Klawf]
+    - Water Pulse x2-3
+  :::
+:::::
+
+Heal with Auto-Heal.
+
+:::::trainer[The Stony Cliff Titan Phase 2]
+  :::pokemon[Klawf]
+    - Water Pulse spam
+  :::
+:::::
+
+Go through the Arven cutscene.
+
+Head to Artazon.
+
+<details>
+	<summary>Grab Guard Spec. on the path.</summary>
+    <img src="https://i.imgur.com/iuq5DWX.png">
+</details>
+
+Shopping:
+- 11x Poké Doll (Use to escape high level encounters)
+
+Fly to the other side of town (East).
+
+Head towards the Watchtower.
+
+<details>
+	<summary>Grab Full Heal in between the two trees.</summary>
+    <img src="https://i.imgur.com/z8d3M8K.png">
+</details>
+
+<details>
+	<summary>Grab Super Potion(s) after the trees.</summary>
+    <img src="https://i.imgur.com/bS8hRNT.png">
+</details>
+
+<details>
+	<summary>Grab both Watchtower Rare Candies.</summary>
+    <img src="https://i.imgur.com/ymHhROO.png">
+</details>
+
+Jump down to the beach.
+
+<details>
+	<summary>Grab Rare Candy on beach.</summary>
+    <img src="https://i.imgur.com/TlapleF.png">
+</details>
+
+Go back around the beach across two sections of shallow water.
+
+Keep going up the hill until the river.
+
+Jump across and BLJ up.
+
+<details>
+	<summary>Grab Rare Candy on cliff near Levincia.</summary>
+    <img src="https://i.imgur.com/4641lVF.png">
+</details>
+
+Jump down to Levincia.
+
+<details>
+	<summary>Grab Rare Candy in the corner of the town.</summary>
+    <img src="https://i.imgur.com/wzTwVOM.png">
+</details>
+
+Fly to the other side of town (North).
+
+Go up the north path.
+
+Listen to the Steel Titan phone call.
+
+Keep following the path, eventually there’s a cave on a path to the right.
+
+Follow that small path to the right.
+
+<details>
+	<summary>Grab Rare Candy on the hill to the right.</summary>
+    <img src="https://i.imgur.com/W9mTBiP.png">
+</details>
+
+Go across the path.
+
+<details>
+	<summary>Grab M Candy on mound.</summary>
+    <img src="https://i.imgur.com/pEgxA4v.png">
+</details>
+
+<details>
+	<summary>Grab Rare Candy in the next hole.</summary>
+    <img src="https://i.imgur.com/pr7H4Vr.png">
+</details>
+
+<details>
+	<summary>Grab Rare Candy in the hole to the right of the “Loves me Not” person (past the truck area).</summary>
+    <img src="https://i.imgur.com/dZrPwSs.png">
+</details>
+
+Go around the hole between you and the Center from the right.
+
+Get the East Province (Area 3) Fly Point.
+
+Keep hugging the cliff on the right.
+
+<details>
+	<summary>Grab Full Restore.</summary>
+    <img src="https://i.imgur.com/zFHF9To.png">
+</details>
+
+<details>
+	<summary>Grab X Speed next to the mound in the hole.</summary>
+    <img src="https://i.imgur.com/Rwp7vzY.png">
+</details>
+
+Head to the other Center (Zapapico East).
+
+Fly to the other side of town (West).
+
+Start heading up the mountain.
+
+<details>
+	<summary>Grab 3x M Candies next to tree to the left of the path.</summary>
+    <img src="https://i.imgur.com/IINB1Wd.png">
+</details>
+
+BLJ up the rocks in front of you.
+
+<details>
+	<summary>Grab 3x M Candies.</summary>
+    <img src="https://i.imgur.com/XlZbNoZ.png">
+</details>
+
+Continue to BLJ up.
+
+<details>
+	<summary>Grab L Candy.</summary>
+    <img src="https://i.imgur.com/dDuVib2.png">
+</details>
+
+Keep running up the large mountain for a while.
+
+<details>
+	<summary>Grab Full Heal in front of a rock.</summary>
+    <img src="https://i.imgur.com/Fuf9DPO.png">
+</details>
+
+When the path splits in two, go to the left.
+
+<details>
+	<summary>Grab L Candy.</summary>
+    <img src="https://i.imgur.com/Xdae2Tk.png">
+</details>
+
+Go back to the split and go uphill.
+
+<details>
+	<summary>Grab 3x M Candies at top of slope.</summary>
+    <img src="https://i.imgur.com/uQEkt7Q.png">
+</details>
+
+Drop down to lower cliff.
+
+<details>
+	<summary>Grab Rare Candy.</summary>
+    <img src="https://i.imgur.com/sIOMKsN.png">
+</details>
+
+Drop down on the Center and continue into the cave.
+
+Follow the path all the way to Medali.
+
+<details>
+	<summary>Grab Hyper Potion behind Cyclizar parking.</summary>
+    <img src="https://i.imgur.com/A3CSQlq.png">
+</details>
+
+Curve around, follow the other path back north and cross the bridge.
+
+Go uphill following the path.
+
+<details>
+	<summary>Grab Hyper Potion under the first tree.</summary>
+    <img src="https://i.imgur.com/WsPSNQ2.png">
+</details>
+
+Keep following the path into mountains and when the path splits in two, go to the right.
+
+<details>
+	<summary>Grab X Attack on the path.</summary>
+    <img src="https://i.imgur.com/fPkXiVx.png">
+</details>
+
+Obtain the Glaseado Mountain Fly Point.
+
+Go right at the Center and keep hugging the slope on the right.
+
+<details>
+	<summary>Grab Energy Powder before the tree.</summary>
+    <img src="https://i.imgur.com/CDF3m9k.png">
+</details>
+
+After going past the tree, BLJ up the slope.
+
+<details>
+	<summary>Grab 3x M Candies on cliff.</summary>
+    <img src="https://i.imgur.com/u4bV3ha.png">
+</details>
+
+Drop back down and keep following path around the mountain.
+
+<details>
+	<summary>Grab Max Potion under the first tree after the trainer.</summary>
+    <img src="https://i.imgur.com/0I5Ziqy.png">
+</details>
+
+Enter Montenevera and go across the town.
+
+On the way, do shopping at Chansey’s:
+- 8x X Attack (Can buy a few more to be safe if unlucky with Charm and Baby-Doll Eyes. Do not underestimate Ortega and Penny)
+- 1x X Speed
+- 1x X Sp. Def
+
+<details>
+	<summary>Grab M Candy under the tree.</summary>
+    <img src="https://i.imgur.com/V1Whiw2.png">
+</details>
+
+BLJ up the hill in front of you.
+
+<details>
+	<summary>Grab Rare Candy.</summary>
+    <img src="https://i.imgur.com/uaJQBX3.png">
+</details>
+
+Jump across the river and go back up the mountain.
+
+Follow the mountain all the way around.
+
+<details>
+	<summary>Grab L Candy.</summary>
+    <img src="https://i.imgur.com/JZbHERV.png">
+</details>
+
+Jump back down near the north gate (where you first entered from).
+
+<details>
+	<summary>Grab 2x Hyper Potion under the tree on the other side.</summary>
+    <img src="https://i.imgur.com/B0weEJx.png">
+</details>
+
+<details>
+	<summary>Grab 2x M Candies on the snow pile.</summary>
+    <img src="https://i.imgur.com/3VqUqo5.png">
+</details>
+
+BLJ up the hill then slide down to the second tree.
+
+<details>
+	<summary>Grab L Candy.</summary>
+    <img src="https://i.imgur.com/vj3PvEc.png">
+</details>
+
+Jump across the river and slide down the slope to Tera Pokémon.
+
+<details>
+	<summary>Grab Rare Candy.</summary>
+    <img src="https://i.imgur.com/89jUsDS.png">
+</details>
+
+Keep going through the mountain towards the east.
+
+Go up the mountain.
+
+Keep going through the rocky area of the mountain.
+
+Enter North Province Area 1.
+
+<details>
+	<summary>Grab X Attack behind the first tree.</summary>
+    <img src="https://i.imgur.com/2yJ64mf.png">
+</details>
+
+At the split, go left.
+
+Keep going east until the slope on the right before the lake.
+
+Go up the slope.
+
+<details>
+	<summary>Grab Full Heal in front of the ruins.</summary>
+    <img src="https://i.imgur.com/SXzf7Gd.png">
+</details>
+
+<details>
+	<summary>Grab Carbos in the back of the ruins (Not needed if you have 120+ speed at lvl 57, helps to outspeed a few things).</summary>
+    <img src="https://i.imgur.com/1FT5cLk.png">
+</details>
+
+At the split before the bamboo forest, go right.
+
+<details>
+	<summary>Grab Full Restore.</summary>
+    <img src="https://i.imgur.com/0rxiYXA.png">
+</details>
+
+Get to the bamboo forest from above.
+
+<details>
+	<summary>Grab Energy Powder next to the rock before the TM ball.</summary>
+    <img src="https://i.imgur.com/bBhwNAq.png">
+</details>
+
+<details>
+	<summary>Grab Full Restore under the bamboo tree in front of Center.</summary>
+    <img src="https://i.imgur.com/hAKa458.png">
+</details>
+
+On Quaxwell, use, in that order:
+- M Candies
+- L Candies
+- Rare Candies
+- Carbos if necessary
+
+Re-learn Liquidation on Slot 1.
+
+Re-learn Acrobatics on Slot 2.
+
+Put Lechonk back on your team.
+
+:::card{theme="neutral"}
+Start the Base Raiding!
+:::
+
+Enter the cutscene for the ⭐Fighting Team Star Base⭐.
+
+:::::trainer[⭐Team Star Carmen⭐]
+  :::pokemon[Croagunk]
+    - Acrobatics
+  :::
+  :::pokemon[Primeape]{info="You outspeed at 121 speed (x / x / 15+)." infoColor=blue}
+    - Acrobatics
+  :::
+:::::
+
+Raid the Base (Avoid Breloom if you can, don’t forget to heal at Vending Machines if you need to).
+
+:::::trainer[⭐Team Star Eri⭐]
+  :::pokemon[Toxicroak]
+    - X Attack
+	- (Full Restore if poisoned) Acrobatics
+  :::
+  :::pokemon[Passimian]
+    - Acrobatics
+  :::
+  :::pokemon[Annihilape]{info="You outspeed at 120 speed (x / x / 15+)." infoColor=blue}
+    - Acrobatics
+  :::
+  :::pokemon[Lucario]{info="You outspeed at 115 speed (x / x / 8+)." infoColor=blue}
+    - Liquidation
+  :::
+  :::pokemon[⭐Starmobile⭐]
+    - Acrobatics
+	- Heal to Full
+	- Acrobatics
+  :::
+:::::
+
+Fly to Glaseado Mountain.
+
+Head North.
+
+Drop down towards North Province.
+
+<details>
+	<summary>Grab 3x Awakening under the tree to the left.</summary>
+    <img src="https://i.imgur.com/yc26bOS.png">
+</details>
+
+<details>
+	<summary>Grab Guard Spec. under the tree.</summary>
+    <img src="https://i.imgur.com/gRhW0Ig.png">
+</details>
+
+Keep going north until the ⭐Fairy Team Star Base⭐.
+
+:::::trainer[Pokémon Trainer Harrington]
+  :::pokemon[Morgrem]
+    - Liquidation
+  :::
+  :::pokemon[Hattrem]
+    - Liquidation (Acrobatics if hit by Torment)
+  :::
+:::::
+
+Raid the Base.
+
+:::::trainer[⭐Team Star Ortega⭐]
+  :::pokemon[Azumarill]
+    - Tera -> Acrobatics
+	- Guard Spec.
+	- (Heal if you can't survive Play Rough) X Attack
+	- Heal to Full
+	- Liquidation
+  :::
+  :::pokemon[Wigglytuff]
+    - Liquidation
+  :::
+  :::pokemon[Dachsbun]{info="You outspeed at 115 speed (x / x / 6+)." infoColor=blue}
+    - Liquidation
+  :::
+  :::pokemon[⭐Starmobile⭐]
+    - Liquidation x2-3
+  :::
+:::::
+
+Fly to Medali (West).
+
+Follow the path.
+
+Go towards the slope on the left of the path.
+
+<details>
+	<summary>Grab Heal Powder on the way.</summary>
+    <img src="https://i.imgur.com/7hGxjs5.png">
+</details>
+
+<details>
+	<summary>Grab Energy Powder under the tree.</summary>
+    <img src="https://i.imgur.com/IYUEtPX.png">
+</details>
+
+Go up the slope.
+
+<details>
+	<summary>Grab Full Heal on the left next to the cliff.</summary>
+    <img src="https://i.imgur.com/Qp1NAqB.png">
+</details>
+
+BLJ up the small slope next to the river.
+
+<details>
+	<summary>Grab Full Restore next to river on the right.</summary>
+    <img src="https://i.imgur.com/H58Avd0.png">
+</details>
+
+Jump down to Cascarrafa.
+
+Fly to the other side of town (West).
+
+Follow the path and take the first left towards the ⭐Dark Team Star Base⭐.
+
+:::::trainer[⭐Team Star Grunt⭐]
+  :::pokemon[Murkrow]
+    - Liquidation
+  :::
+:::::
+
+Raid the Base.
+
+:::::trainer[⭐Team Star Giacomo⭐]
+  :::pokemon[Pawniard]
+	- Liquidation
+  :::
+  :::pokemon[⭐Starmobile⭐]
+    - Liquidation
+  :::
+:::::
+
+Fly to Artazon (East).
+
+Go up the cliff north of the Center.
+
+Fall down the cliff to the ⭐Fire Team Star Base⭐.
+
+:::::trainer[⭐Team Star Grunt⭐]
+  :::pokemon[Houndour]
+    - Liquidation
+  :::
+:::::
+
+Raid the Base.
+
+:::::trainer[⭐Team Star Mela⭐]
+  :::pokemon[Torkoal]
+	- Liquidation
+  :::
+  :::pokemon[⭐Starmobile⭐]
+    - Liquidation x2
+  :::
+:::::
+
+Fly to East Province (Area 3).
+
+Head to the ⭐Poison Team Star Base⭐.
+
+:::::trainer[Pokémon Trainer Youssef]
+  :::pokemon[Gulpin]
+    - Liquidation
+  :::
+  :::pokemon[Shroodle]
+    - Liquidation
+  :::
+:::::
+
+Raid the Base.
+
+:::::trainer[⭐Team Star Atticus⭐]
+  :::pokemon[Skuntank]
+	- Liquidation
+  :::
+  :::pokemon[Muk]
+	- Liquidation
+  :::
+  :::pokemon[Revavroom]
+	- Liquidation
+  :::
+  :::pokemon[⭐Starmobile⭐]
+    - Liquidation x2-3
+  :::
+:::::
+
+Heal to Full.
+
+Put the extra Pokémon in the boxes.
+
+Fly to School.
+
+Enter the “Clive” fight.
+
+:::::trainer[Director Clavell]
+  :::pokemon[Oranguru]{info="Remove Sleep on the first turn you're asleep." infoColor=blue}
+    - X Speed
+	- X Attack x2 (x3 for safety and/or to counter Reflect)
+	- Liquidation (x2)
+  :::
+  :::pokemon[Abomasnow]
+    - Acrobatics
+  :::
+  :::pokemon[Polteageist]
+    - Liquidation
+  :::
+  :::pokemon[Gyarados]
+    - Acrobatics x2
+  :::
+  :::pokemon[Houndoom]
+    - Liquidation
+  :::
+  :::pokemon[Meowscarada]
+    - Acrobatics
+  :::
+:::::
+
+Go to the Schoolyard.
+
+:::::trainer[⭐Penny⭐]
+  :::pokemon[Umbreon]{info="Heal when needed." infoColor=blue}
+    - X Sp. Def
+	- Guard Spec.
+	- X Speed
+	- X Attack x3
+	- Liquidation
+  :::
+  :::pokemon[Jolteon]
+    - Liquidation
+  :::
+  :::pokemon[Leafeon]
+    - Acrobatics
+  :::
+  :::pokemon[Flareon]
+    - Liquidation
+  :::
+  :::pokemon[Vaporeon]
+    - Acrobatics
+  :::
+  :::pokemon[Sylveon]
+    - Liquidation
+  :::
+:::::
+
+GG
+
+Timing ends on the first black frame of the fadeout after you beat Penny. Or when ⭐Starfall Street⭐ Complete appears. TBD

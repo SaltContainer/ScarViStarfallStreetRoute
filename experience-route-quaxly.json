@@ -1,0 +1,283 @@
+{
+  "initialLevel": 5,
+  "growthRate": "medium-slow",
+  "experienceEvents": [
+    {
+      "id": "5417108e-b9e2-427f-9149-0d5698f5ff81",
+      "type": "species",
+      "enabled": true,
+      "name": "Nemona's Fuecoco",
+      "baseExperience": 62,
+      "level": 5,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": false,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 1,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "fc9c1fc2-c16a-4c81-bda8-795f911ba8bb",
+      "type": "species",
+      "enabled": true,
+      "name": "Lechonk Catch",
+      "baseExperience": 51,
+      "level": 3,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": true,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 1,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0,
+      "experienceGained": 20,
+      "isLevelUp": false,
+      "levelAfterExperience": 6,
+      "totalExperience": 218,
+      "evs": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "4a6b8f43-ff08-4675-bedb-f1a501fde469",
+      "type": "species",
+      "enabled": true,
+      "name": "Arven's Skwovet",
+      "baseExperience": 55,
+      "level": 5,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": false,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 1,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "24e8cc2e-f040-4245-92f8-a3148f5331c2",
+      "type": "species",
+      "enabled": true,
+      "name": "Shroodle",
+      "baseExperience": 58,
+      "level": 8,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": false,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 0,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 1
+    },
+    {
+      "id": "a5b3058c-9332-4dab-8a48-6f5de140f9e5",
+      "type": "species",
+      "enabled": true,
+      "name": "Yungoos",
+      "baseExperience": 51,
+      "level": 9,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": false,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 0,
+      "attackEVValue": 1,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "ff1d2b55-8faa-4ead-bddb-517240e694d1",
+      "type": "manual",
+      "enabled": true,
+      "name": "S Candy",
+      "value": 800,
+      "hpEVValue": 0,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "9d39b641-e490-47d7-903b-6cdc6b8b4ee1",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "f577001b-6a89-4eee-9a06-922c8b575283",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "c5a4b3ac-da3c-4df0-98cc-dcee5b112808",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "12675f2f-7819-4354-bc27-e647346a513c",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "c797b112-ca7c-4d9e-9515-c098ee8d0c3d",
+      "type": "species",
+      "enabled": true,
+      "name": "Klawf, Rock Titan",
+      "baseExperience": 158,
+      "level": 16,
+      "expShareEnabled": false,
+      "participated": true,
+      "otherParticipantCount": 0,
+      "otherPokemonHoldingExperienceShare": 0,
+      "partySize": 1,
+      "isTrade": false,
+      "isInternationalTrade": false,
+      "hasLuckyEgg": false,
+      "hasAffectionBoost": false,
+      "isWild": true,
+      "isPastEvolutionPoint": false,
+      "hpEVValue": 0,
+      "attackEVValue": 0,
+      "defenseEVValue": 2,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "0674e8a8-e79a-4e05-aaaf-91b9e0136a28",
+      "type": "manual",
+      "enabled": true,
+      "name": "16x M Candies",
+      "value": 48000,
+      "hpEVValue": 0,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "e29a85ae-81ea-4e59-ab04-30f904856fda",
+      "type": "manual",
+      "enabled": true,
+      "name": "4x L Candies",
+      "value": 40000,
+      "hpEVValue": 0,
+      "attackEVValue": 0,
+      "defenseEVValue": 0,
+      "spAttackEVValue": 0,
+      "spDefenseEVValue": 0,
+      "speedEVValue": 0
+    },
+    {
+      "id": "5468568a-fb84-4d1d-9097-6ad52f4806e2",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "33c76348-8cab-4413-9c97-f8564ee3a0c2",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "07e5aea2-7aac-4dfd-96f7-f902db27adc3",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "99740351-41d9-431c-aa09-54bca4cadf44",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "b45e2f4e-648e-477a-af2d-d96ac27d1dce",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "dd567bf6-7e1d-4caa-baed-26999a96a03e",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "341cbba6-5053-4029-a940-da87d12770da",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "6a23b6b7-b538-4cfc-aa81-7ce4fb8b4021",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "be0cd8db-59fa-4262-9a0d-b08e4bfe10b7",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "5467ae33-56fc-4d18-9fd3-23af4e02c5ad",
+      "type": "rareCandy",
+      "enabled": true
+    },
+    {
+      "id": "ae046305-b38d-4bb5-9edf-85b5abcc9527",
+      "type": "rareCandy",
+      "enabled": true
+    }
+  ],
+  "generation": 7
+}
